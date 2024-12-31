@@ -5,6 +5,7 @@ import Note from "./components/Note";
 import CreateArea from "./components/CreateArea";
 import "./components/index.css"
 
+
 function App() {
   const[note,setNote]=useState(
    { title:"",
